@@ -11,4 +11,4 @@ Use your Google chromecast-enabled devices as speakers for your Apple AirPlay au
 6. Refresh BitBar via its built-in menu. If everything is set up correctly, click **Start AirConnect** to start the bridge.
 7. Stream audio to your chromecast devices by changing your Mac's audio output device, choosing AirPlay in an iOS app, etc.
 
-![AirConnect plugin sample](https://user-images.githubusercontent.com/43363630/93159526-5214f580-f749-11ea-9b1e-0f5a143643d6.png)
+![AirConnect plugin sample](https://user-images.githubusercontent.com/43363630/101709887-aa9f2900-3ad3-11eb-8863-4309a068aa3c.png)
